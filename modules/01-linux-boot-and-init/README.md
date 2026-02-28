@@ -9,14 +9,14 @@ To read a simplified, browser-friendly version of this guide, check out the post
 
 ---
 
-### The Reset Vector
-
 > [!NOTE]
 > **Unknown Terms?**
 > If terms like **CMOS**, **ROM**, or **SPI** sound like a different language, I've deconstructed them for you here:
 > 👉 [**CMOS**](./glossary/what-is-cmos.md)
 > 👉 [**ROM / Flash ROM**](./glossary/what-is-ROM-or-Flash-ROM-chip.md)
 > 👉 [**Reset Vector + SPI**](./glossary/reset-vector-SPI-bus.md)
+
+### The Reset Vector
 
 When a CPU receives power, it is hardwired to look at a specific memory address called the **Reset Vector** (usually `0xFFFFFFF0`).
 
@@ -62,7 +62,7 @@ This is the most critical part for Linux.
 
 ### 🔙 Navigation & Roadmap
 
-* **Main Index:** [Return to Technical Modules List](../../README.md)
+* **Main Index:** [Return to Technical Modules List](../../README.md#-technical-modules)
 
 ---
 *Created by **Venkata Jagan Chennu** — DevOps Engineer | Simplifying Tech.*

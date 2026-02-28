@@ -34,7 +34,7 @@ Below is the high-level roadmap of my deconstruction journey. Each phase represe
 | **v1.2.0** | **Mars**     | May 2026 |                     | ⚪ Planned     |
 | **v1.3.0** | **Jupiter**  | Jun 2026 |                     | ⚪ Planned     |
 
-> *Full 24-month schedule details are maintained in the [releases/](./releases/) directory logs.*
+> *Full schedule details are maintained in the [releases/](./releases/) directory logs.*
 
 ---
 
