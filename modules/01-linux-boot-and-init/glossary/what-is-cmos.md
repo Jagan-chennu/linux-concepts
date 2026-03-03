@@ -99,7 +99,7 @@ In a production data center, if a server's CMOS battery dies, it creates a high-
 ### 🔙 Navigation & Roadmap
 
 * **Continue Reading:** [Back to Boot & Init Main Article](../README.md)
-* **Main Index:** [Return to Technical Modules List](../../README.md#-technical-modules)
+* **Main Index:** [Return to Technical Modules List](../../../README.md#-technical-modules)
 
 ---
 *Created by **Venkata Jagan Chennu** — DevOps Engineer | Simplifying Tech.*
