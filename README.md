@@ -46,6 +46,9 @@ To maintain a professional and organized learning environment, this repository f
 linux-concepts/
 ├── scripts/             # Automation tools (e.g., generate_release.sh)
 ├── modules/             # Technical deep-dives categorized by topic
+│   ├── 00-foundations-of-linux/
+│   │   ├── glossary/    # The "Dictionary" of terms
+│   │   └── linux-philosophy.md
 │   ├── 01-linux-boot-and-init/
 │   │   ├── glossary/    # The "Dictionary" of terms
 │   │   └── README.md    # BIOS/UEFI → GRUB → Kernel Init → Systemd (PID 1)
