@@ -64,6 +64,8 @@ linux-concepts/
 Explore the deconstructed concepts by category. These modules break down the complex inner workings of Linux into smaller, achievable tasks.
 
 * [**./modules/**](./modules/)
+  * 📂 [**00-Foundations-of-Linux**](./modules/00-foundations-of-linux/) — The "Pre-flight Check": Understanding the origins.
+    * **Focus:** History of Linux, Linux Distributions, and the GNU vs. Open Source Philosophy.
   * 📂 [**01-Linux-Boot-and-Init**](./modules/01-linux-boot-and-init/) — Deconstructing the journey from hardware power-on to a usable shell.
     * **Focus:** BIOS/UEFI, GRUB, Kernel Initialization, and the role of Systemd (PID 1).
 
