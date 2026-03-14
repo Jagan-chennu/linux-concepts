@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-🟢_Completed-brightgreen" alt="Status: Completed">
+</div>
+
 # The Philosophical Divide: Understanding GNU, Free Software, and Open Source
 
 ---

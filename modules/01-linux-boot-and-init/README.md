@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/Status-🟠_In_Progress-orange" alt="Status: In Progress">
+</div>
+
 # 📂 01: Linux Boot Process and init
 
 ---
