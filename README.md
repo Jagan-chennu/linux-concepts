@@ -4,7 +4,7 @@ A deconstructed guide to Linux fundamentals. Documentation for the layman and th
 
 ---
 
-### 🌐 Explore AVIDFLICK
+### 🌐 Explore <a href="https://avidflick.in"><img src="./assets/avidflick_logo.png" alt="AVIDFLICK" height="30" style="vertical-align:middle;"></a>
 
 If you prefer a browser-friendly reading experience, visit my blog at **[avidflick.in](https://avidflick.in)**.
 
