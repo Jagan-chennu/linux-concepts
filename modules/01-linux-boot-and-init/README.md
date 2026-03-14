@@ -1,4 +1,4 @@
-# 📂 01: Power On & BIOS/UEFI (The Hardware Phase)
+# 📂 01: Linux Boot Process and init
 
 ---
 
