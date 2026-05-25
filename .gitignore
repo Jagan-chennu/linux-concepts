@@ -1,0 +1,10 @@
+# Ignore VS Code IDE folders
+.vscode/
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary script files or logs
+*.log
+temp/
