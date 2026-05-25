@@ -27,14 +27,13 @@ As a DevOps Engineer, I’ve realized that the most complex production issues of
 
 Below is the high-level roadmap of my deconstruction journey. Each phase represents a new celestial body and a deeper dive into the Linux cosmos.
 
-| Version    | Release Name | Month    | Learning Focus      | Status        |
-| :--------- | :----------- | :------- | :------------------ | :------------ |
-| **v1.0.0** | **Mercury**  | Mar 2026 | Boot & Init Process | 🟢 In Progress |
-| **v1.1.0** | **Venus**    | Apr 2026 |                     | ⚪ Planned     |
-| **v1.2.0** | **Mars**     | May 2026 |                     | ⚪ Planned     |
-| **v1.3.0** | **Jupiter**  | Jun 2026 |                     | ⚪ Planned     |
-
-> *Full schedule details are maintained in the [releases/](./releases/) directory logs.*
+| Learning Focus                                    | Status        |
+| :------------------------------------------------ | :------------ |
+| Understanding GNU, Free Software, and Open Source | ⚪ Done        |
+| Boot & Init Process                               | 🟢 In Progress |
+|                                                   | ⚪ Planned     |
+|                                                   | ⚪ Planned     |
+|                                                   | ⚪ Planned     |
 
 ---
 
@@ -48,7 +47,7 @@ linux-concepts/
 ├── modules/             # Technical deep-dives categorized by topic
 │   ├── 00-foundations-of-linux/
 │   │   ├── glossary/    # The "Dictionary" of terms
-│   │   └── linux-philosophy.md
+│   │   └── README.md    # GNU vs. Open Source Philosophy (Start your Linux learning Journey, and follow the navigation keys at bottom of each document)
 │   ├── 01-linux-boot-and-init/
 │   │   ├── glossary/    # The "Dictionary" of terms
 │   │   └── README.md    # BIOS/UEFI → GRUB → Kernel Init → Systemd (PID 1)
