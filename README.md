@@ -15,6 +15,15 @@ I deconstruct complex topics across DevOps stack, including:
 
 ---
 
+#### 🔔 Connect & Stay Updated
+
+Follow **avidflick_tech** across our social handles to get instant notifications, micro-learning clips, and real-time alerts whenever a new module, YouTube masterclass, or blog architectural update drops!
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@avidflick_tech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/avidflick_tech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/avidflick-tech-7b84b6418/) [![X / Twitter](https://img.shields.io/badge/X_/_Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/avidflick_tech) 
+[![Threads](https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@avidflick_tech) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/18gqhnXS8W/?mibextid=wwXIfr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://in.pinterest.com/avidflick_tech/)
+
+---
+
 ## 💡 The Deconstruction Philosophy
 >
 > "To master high-level DevOps orchestration, one must first understand the 'Atomic' units of the Operating System."
