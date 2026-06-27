@@ -30,8 +30,8 @@ Below is the high-level roadmap of my deconstruction journey. Each phase represe
 | Learning Focus                                    | Status        |
 | :------------------------------------------------ | :------------ |
 | Understanding GNU, Free Software, and Open Source | ⚪ Done        |
-| Boot & Init Process                               | 🟢 In Progress |
-|                                                   | ⚪ Planned     |
+| History of Linux Operating System                 | 🟢 In Progress |
+| Linux Boot Process                                | ⚪ Planned     |
 |                                                   | ⚪ Planned     |
 |                                                   | ⚪ Planned     |
 
@@ -43,16 +43,11 @@ To maintain a professional and organized learning environment, this repository f
 
 ```text
 linux-concepts/
-├── scripts/             # Automation tools (e.g., generate_release.sh)
 ├── modules/             # Technical deep-dives categorized by topic
-│   ├── 00-foundations-of-linux/
-│   │   ├── glossary/    # The "Dictionary" of terms
+│   ├── 000-gnu-philosophy-free-vs-open-source/
 │   │   └── README.md    # GNU vs. Open Source Philosophy (Start your Linux learning Journey, and follow the navigation keys at bottom of each document)
-│   ├── 01-linux-boot-and-init/
-│   │   ├── glossary/    # The "Dictionary" of terms
-│   │   └── README.md    # BIOS/UEFI → GRUB → Kernel Init → Systemd (PID 1)
-├── releases/            # Monthly "Astronomical" learning logs
-│   └── v1.0.0-mercury/  # Milestone-specific reflections
+│   ├── 001-history-of-linux-operating-system/
+│   │   └── README.md    # Linux genesis from 1969 UNIX roots to the 1991 kernel breakthrough, licensing, GNU + Linux, Linux feature and Functions, Advantages and Disadvantages, and distro evolution
 └── README.md            # Mission, Navigation and Index
 ```
 
@@ -63,9 +58,11 @@ linux-concepts/
 Explore the deconstructed concepts by category. These modules break down the complex inner workings of Linux into smaller, achievable tasks.
 
 * [**./modules/**](./modules/)
-  * 📂 [**00-Foundations-of-Linux**](./modules/00-foundations-of-linux/) — The "Pre-flight Check": Understanding the origins.
-    * **Focus:** History of Linux, Linux Distributions, and the GNU vs. Open Source Philosophy.
-  * 📂 [**01-Linux-Boot-and-Init**](./modules/01-linux-boot-and-init/) — Deconstructing the journey from hardware power-on to a usable shell.
+  * 📂 [**000-gnu-philosophy-free-vs-open-source**](./modules/000-gnu-philosophy-free-vs-open-source/README.md)
+    * **Focus:** An ideological and licensing deep-dive into the foundational split within the open-source community. Compares the FSF's ethical mandate protecting the 4 Essential Freedoms via copyleft (GPL) against the OSI’s focus on development economics and permissive licensing (MIT/Apache).
+  * 📂 [**001-history-of-linux-operating-system**](./modules/001-history-of-linux-operating-system/README.md)
+    * **Focus:** A historical chronicle of the Linux kernel from its 1969 UNIX and 1987 MINIX roots to Linus Torvalds' 1991 monolithic breakthrough. Covers the ethical foundations of the GNU Project, FSF copyleft licensing mechanics, and a structural overview of modern enterprise and community distributions.
+  * 📂 [**01-Linux-Boot-and-Init**](./modules/01-linux-boot-and-init/)
     * **Focus:** BIOS/UEFI, GRUB, Kernel Initialization, and the role of Systemd (PID 1).
 
 ---
