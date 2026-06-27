@@ -7,4 +7,4 @@ Thumbs.db
 
 # Ignore temporary script files or logs
 *.log
-temp/
+temp
